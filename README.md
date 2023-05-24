@@ -4,4 +4,4 @@ This project implements a Bloom filter to detect active phishing URLs. The phish
 
 Bloom Filter Design
 
-We will design a Bloom filter that contains the set of ACTIVE phishing links, and the false positive rate for classifying an INACTIVE phishing link as ACTIVE is minimized. The size of the Bloom filter is set to 330, and it should have a false positive rate strictly less than 30%.
+I will design a Bloom filter that contains the set of ACTIVE phishing links, and the false positive rate for classifying an INACTIVE phishing link as ACTIVE is minimized. The size of the Bloom filter is set to 330, and it should have a false positive rate strictly less than 30%.
